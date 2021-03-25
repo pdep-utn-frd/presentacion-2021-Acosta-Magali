@@ -10,7 +10,7 @@
 - Vivo en Zárate
 - Estudio Ingeniería en Sistemas de Información
 
-##Hobbies
+## Hobbies
 
 - Natación 
 - Taekwondo
